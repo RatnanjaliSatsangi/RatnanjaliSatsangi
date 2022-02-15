@@ -1,5 +1,5 @@
 ## Welcome to my Github 👋
-![Alt Text](./giphy.gif)
+![Alt Text](./758X.gif)
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: You can reach me at various handles like:
